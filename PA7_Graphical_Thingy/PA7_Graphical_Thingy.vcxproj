@@ -142,6 +142,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\main.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
