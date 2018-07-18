@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Attack.h" />
+    <ClInclude Include="Creature.h" />
+    <ClInclude Include="Trainer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Attack.cpp" />
+    <ClCompile Include="Creature.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Trainer.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{5B8052A1-7ACA-42D6-A7E2-1569CEBF1E3A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -141,17 +152,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\main.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

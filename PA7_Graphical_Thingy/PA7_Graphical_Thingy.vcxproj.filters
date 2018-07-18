@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.h">
+    <ClInclude Include="Attack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.h">
+    <ClInclude Include="Creature.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.h">
+    <ClInclude Include="Trainer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Attack.cpp">
+    <ClCompile Include="Attack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Creature.cpp">
+    <ClCompile Include="Creature.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Hellwig PA7\Hellwig PA7\Trainer.cpp">
+    <ClCompile Include="Trainer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
